@@ -1,5 +1,7 @@
 # Introduction to Sampling techniques
 
+** Definations **
+
 Population: the set of all elements of interest in a particular study.
 
 Population Size: Population size is the number of unit, which constitutes the population.
