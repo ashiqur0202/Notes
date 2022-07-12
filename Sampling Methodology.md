@@ -36,5 +36,96 @@ Extimator: An estimator is a statistic that estimates some fact about the popula
 
 Estimate: A particular value of the estimator is called an estimate.
 
+Survey: Survey is a general term that refers to the collection of data by interviews, questionnaires or direct observations.
+
+Sample Survey: The technique of collecting information from a portion of the population is called a sample survey.
+
+Census: A survey that includes every member of the population is called a census.
+
+=============================================================================================================================================================
+
+> Non Probabilit Smapling:
+Non probability sampling is a method of selecting units from a population using a subjective method.
+
+Some non probability sampling are:-
+- Convenience Sampling:
+- Accidental Sampling:
+- Purposive Sampling:
+- Judgment Sampling:
+- Quota Sampling:
+- Snowball Sampling:
+
+Advantage of Non Probability Sampling:
+Disadvantage of Non Probability Sampling:
+
+=============================================================================================================================================================
+
+> Probability Sampling: 
+Probability sampling means that every member of the target population has a known chance of being included in the sample.
+
+Some probability sampling are:-
+-Simple Random Sampling:
+-Stratified Sampling:
+-Systematic Sampling:
+-Cluster Sampling
+
+Advantage of Probability Sampling:
+Disadvantage of Probability Sampling:
+
+=============================================================================================================================================================
+
+Step in planning and execution a sample survey: 
+-Objective of the study:
+ - hi
+-Target Population
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
