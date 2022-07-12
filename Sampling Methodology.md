@@ -1,6 +1,6 @@
 # Introduction to Sampling techniques
 
-** Definations **
+============================ Definations ==============================
 
 Population: the set of all elements of interest in a particular study.
 
