@@ -75,17 +75,47 @@ Disadvantage of Probability Sampling:
 =============================================================================================================================================================
 
 Step in planning and execution a sample survey: 
--Objective of the study:
- - hi
--Target Population
+1. Objectives of the study:
+2. Target population:
+3. Data:
+4. Precision desired:
+5. Sampling frame:
+6. Duration of the study:
+7. Sample design:
+8. Survey design:
+9. Sample size determination:
+10. Preparation of field materials:
+11. Selection and training of field workers:
+12. Pre-testing:
+13. Fieldwork:
+14. Data management:
+15. Editing and checking:
+16. Data processing and analysis:
+17. Project management:
+18. Report writing:
+19. Lessons learned:
 
 
+Advantages of sample survey over complete count:
+It is now widely agreed that sample survey is the most popular and scientific technique of data
+collection.
+
+1. Reduced cost:
+2. Less time:
+3. Less labor:
+4. Greater scope:
+5. Greater accuracy:
+6. Data processing:
+7. Flexibility:
+8. Feasibility:
 
 
+Criteria of a perfect sample design:
 
-
-
-
+1. Accuracy:
+2. Reliability:
+3. Validity:
+4. Efficiency:
 
 
 
