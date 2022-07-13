@@ -48,12 +48,12 @@ Census: A survey that includes every member of the population is called a census
 Non probability sampling is a method of selecting units from a population using a subjective method.
 
 Some non probability sampling are:-
-- Convenience Sampling:
-- Accidental Sampling:
-- Purposive Sampling:
-- Judgment Sampling:
-- Quota Sampling:
-- Snowball Sampling:
+- Convenience Sampling: Non probability samples that are unrestricted are known as convenience samples. Researchers or field workers have the freedom to choose whomever they find.
+- Accidental Sampling: An accidental type of sampling is one in which the selection of the cases is made whatever happens to be available instantly.
+- Purposive Sampling: A non probability sampling method that conforms to certain criteria is called purposive sampling. 
+- Judgment Sampling: Judgment sampling is one in which the cases are included for investigation through a planned selection procedure.
+- Quota Sampling: Quota sampling is a non probability sampling in which the interviewers are told to contact and interview a certain number of individuals from certain sub groups of the population to make up the total sample.
+- Snowball Sampling: Snowball sampling is non probability sampling in which persons initially chosen for the sample are used as informants to locate other persons having necessary characteristics making them eligible for the sample through referral network.
 
 Advantage of Non Probability Sampling:
 Disadvantage of Non Probability Sampling:
