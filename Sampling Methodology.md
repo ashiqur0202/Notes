@@ -55,8 +55,19 @@ Some non probability sampling are:-
 - Quota Sampling: Quota sampling is a non probability sampling in which the interviewers are told to contact and interview a certain number of individuals from certain sub groups of the population to make up the total sample.
 - Snowball Sampling: Snowball sampling is non probability sampling in which persons initially chosen for the sample are used as informants to locate other persons having necessary characteristics making them eligible for the sample through referral network.
 
-Advantage of Non Probability Sampling:
+Advantage of Non Probability Sampling: 
+1. It may meet the sampling objectives satisfactorily in some instances. It may be perfectly adequate if the researcher has no desire to generalize his or her findings beyond the sample or if the study is a trial run for a longer study to be attempted at a later date.
+2. In situations, where a truly representative probability sample is too complicated, time consuming, expensive and calls for more planning and repeated callbacks, a carefully controlled non probability sampling remains the only viable means of collecting data.
+3. Some times it is impossible or too expensive to find enough cases of a particular type by using probability sampling. In such cases, non probability sampling may be the only feasible alternative.
+4. Since it is less complicated and much less expensive, it may be executed on a spur-of the moment basis to take advantages of available respondents without the statistical complexity of a probability sampling.
+
+
 Disadvantage of Non Probability Sampling:
+1. If offers no insight into the reliability of the resulting estimates and hence, no generalization can be made regarding the population which is being sampled.
+2. The investigator cannot claim that his or her sample is representative of the population, since the probability that a unit will be chosen is not known.
+3. The investigator is unable to estimate the degree of departure from representation(Sampling error).
+4. No sampling theory can be developed out of a non probability sample, since no element of random selection is involved.
+5. No comparison of the result can be made for the non probability samples unless one can find a situation in which the results are known. either for the whole population or for a probability sample.
 
 =============================================================================================================================================================
 
