@@ -1,4 +1,4 @@
-# Introduction to Sampling techniques
+# 01 Introduction to Sampling techniques
 
 ============================ Definations ==============================
 
@@ -75,12 +75,13 @@ Disadvantage of Non Probability Sampling:
 Probability sampling means that every member of the target population has a known chance of being included in the sample.
 
 Some probability sampling are:-
--Simple Random Sampling:
+-Simple Random Sampling: Details below:
 -Stratified Sampling:
 -Systematic Sampling:
 -Cluster Sampling
 
 Advantage of Probability Sampling:
+
 Disadvantage of Probability Sampling:
 
 =============================================================================================================================================================
@@ -129,9 +130,27 @@ Criteria of a perfect sample design:
 4. Efficiency:
 
 
+##################################################################################################################################################
+
+02 Simple Random Sampling
+
+Simple Random Sampling: Simple random sampling is the technique of drawing a sample in such away that each unit of the population has an equal and independent chance of being included in the sample.
+
+Simple Random Sampling with Replacement:
+Simple Random Sampling without Replacement:
+
+Advantage of Simple Random Sampling:
+1. It is simple to conceptualize.
+2. It provides foundation for much of statistical theory.
+3. It provides a basis to which other methods can be compared.
+4. Since, the sampling units are selected at random giving each unit an equal chance of being selected, the element of subjectivity or personal bias is completely eliminated.
 
 
-
+Disadvantage of Simple Random Sampling:
+1. It requires an up-to-date frame from which samples are to be drawn. So, all units in the population must be identified and labeled prior to sampling. This process is potentially so expensive and time consuming that it becomes unrealistic to implement.
+2. Sampled individuals may be so widely dispersed that visiting each selected individual may be extremely expensive and time consuming.
+3. Certain subgroups in the population may be totally overlooked or may be over represented in the sample as a result o chance factor. In either case, the estimated parameters are likely to be in error.
+4. When the population measurements very considerably in size, then simple random sample produces larger variances than other methods of sampling.
 
 
 
