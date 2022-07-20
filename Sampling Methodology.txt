@@ -139,6 +139,18 @@ Simple Random Sampling: Simple random sampling is the technique of drawing a sam
 Simple Random Sampling with Replacement:
 Simple Random Sampling without Replacement:
 
+Drawing a simple random sample from a population requires that in every draw, each eligible
+population element be assigned equal probability of selection. To ensure randomness in the
+selection, the method of selection must be independent of human judgment as far as possible.
+There are two basic procedures. They are
+1) The lottery method: Lottery method is which each member of the population is identified by some means, such as by a marble, a disk, a piece of paper and so on. Lottery method is the simplest method of selecting a simple random sample. The lottery method is free from human bias and thus ensure randomness.
+2) The use of random number table: A random number table is a table of digits. The digit given in each position in the table was originally chosen randomly from the digits 0,1,2,3,4,5,6,7,8,9 by a random process in which each digit is equally likely to be chosen.
+ The modified procedures of the use of random number table are-
+ - Remainder method:
+ - Quotient method:
+
+
+
 Advantage of Simple Random Sampling:
 1. It is simple to conceptualize.
 2. It provides foundation for much of statistical theory.
