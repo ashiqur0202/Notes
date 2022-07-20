@@ -167,16 +167,24 @@ Disadvantage of Simple Random Sampling:
 
 
 
+##################################################################################################################################################
+07 Systematic Sampling
 
 
+Systematic sampling: Systematic sampling is a probability sampling method where researchers select members of the population at a regular interval.
+
+Linear systematic sampling: Suppose that a random sample of size n=3 desired from a population of size N=15. Here, k=N/n=15/3=5. To achive the desired sample size, select at random one of the first k=5 units and then every 5th unit in the sequence. eg- 1,6,11 or 5,10,15
+
+Non-linear systematic sampling: Suppose that a random sample of size n=3 is desired from a population of size N=14. Here, k=N/n=14/3=4.67=5. To achieve the desired sample size, select at random one of the first k=5 five units and then every 5th unit in the sequence. eg-1,6,11 or 5,10
+
+Circular systematic sampling: Suppose that a random sample of size n=3 is desired from a population of size N=14. Here, k=N/n=14/3=4.67=5. To achieve the desired sample size, select a unit by a random number between 01 and n inclusive. eg- 1,6,11 or 5,10,1
 
 
+##################################################################################################################################################
 
+08 Single-stage Cluster Sampling
 
-
-
-
-
+Cluster sampling: Cluster sampling is a probability sampling technique where researchers divide the population into multiple groups (clusters) for research.
 
 
 
