@@ -170,7 +170,13 @@ Disadvantage of Simple Random Sampling:
 
 Stratified random sampling: Stratified random sampling is a method of sampling that involves the division of a populatin into smaller sub-groups known as strata.
 
-Allocating sample:
+Allocating:
+There are five methods of allocation of sample size to different strata in a stratified sampling procedure.
+1. Arbitrary allocation:
+2. Equal allocation:
+3. Proportional allocation:
+4. Neyman allocation:
+5. Cost optimum allocation:
 
 
 
