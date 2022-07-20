@@ -165,6 +165,19 @@ Disadvantage of Simple Random Sampling:
 4. When the population measurements very considerably in size, then simple random sample produces larger variances than other methods of sampling.
 
 
+##################################################################################################################################################
+04 Stratified Sampling
+
+Stratified random sampling: Stratified random sampling is a method of sampling that involves the division of a populatin into smaller sub-groups known as strata.
+
+Allocating sample:
+
+
+
+
+
+
+
 
 
 ##################################################################################################################################################
