@@ -170,19 +170,30 @@ Disadvantage of Simple Random Sampling:
 
 Stratified random sampling: Stratified random sampling is a method of sampling that involves the division of a populatin into smaller sub-groups known as strata.
 
+
+Advantage of stratified sampling:
+1) Stratification tends to decrease the variances of the sample estimates. This results in smaller bound on the error of estimation. This is particularly true if measurements within strata are homogeneous.
+2) The cost per observation in the survey may be reduced by stratification.
+3) When separate estimates for population parameters for each sub-population within an overall population are required, stratification is rewarding.
+4) Stratification makes it possible to use different sampling designs in different strata.
+5) Stratification is particularly more effective when there are extreme values in the population, which can be segregated into separate strata, thereby reducing the variability within strata.
+6) Stratified sampling is most effective in handling heterogeneous population such as data on wages of industrial workers (which varies from industry to industry), amount of rain fall (which differs among various geographical areas) and the like.
+7) Stratification provides a chance to improve sampling design considerably if the strata could be formed on the basis of natural characteristics.
+8) In stratified sampling, confidence intervals may be constructed individually for the parameter of interest in each stratum. This is an added advantage over other methods of sampling.
+9) The estimates in various strata may be made with whatever precision is desired simply by adjusting the sample size selected from each stratum. 
+
+Disadvantage of stratified sampling:
+The major disadvantage of stratified sampling is that it may take more time to select the
+sample than would be the case for simple random sampling. More time is involved because
+complete frames are necessary within each of the strata and each stratum must be sampled.
+
 Allocating:
 There are five methods of allocation of sample size to different strata in a stratified sampling procedure.
-1. Arbitrary allocation:
-2. Equal allocation:
-3. Proportional allocation:
-4. Neyman allocation:
-5. Cost optimum allocation:
-
-
-
-
-
-
+1. Arbitrary allocation: In arbitrary allocation, the choice of the sample size to different strata depends entirely on hte convenience of the sampler. (ni=n)
+2. Equal allocation: In equal allocation the same number of elements is drawn from each stratum. (ni=n/k)
+3. Proportional allocation: Proportional allocation sets the sample size in each stratum equal to be proportional to the number of sampling units in that stratum. (ni=(n/N)Ni)
+4. Neyman allocation: Neyman allocation is a method used to allocate sample to strata based on the strata variances and similar sampling costs in the strata. A Neyman allocation scheme provides the most precision for estimating a population mean given a fixed total sample size. (ni=ANiSi)
+5. Cost optimum allocation: In cost optimum allocation the sampling cost per unit of each stratum is different and the total sampling cost is fixed. This is also known as optimum allocation with fixed sampling cost. (ni=A(NiSi/√Ci)
 
 
 
