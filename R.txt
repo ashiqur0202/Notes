@@ -1,1 +1,49 @@
 
+1. Variable
+2. Data types
+3. Operations
+4. Conditional statement
+5. Loops
+6. Strings
+7. Functions
+
+
+2. Data types:
+  1. Vector
+  2. Matrix
+  3. Array
+  4. List
+  5. Data frame
+  
+  1. Vector: A vector is a sequence of data elements of the same basic type.
+    Types of vector is - Logical, Integer, Numeric, Complex, Character 
+  2. Matrix: Matrix are the R objects in which the elements are arranged in a two dimensional rectangular layout.
+    Syntex-> matrix(data, nrow, ncol, byrow, dimnanes)
+  3. Array: Array are the R data objects which can store data in more than two dimension
+    Syntex-> array(data, dim, dimnanes)
+  4. List: List are the R objects where contain elements of different types like numbers, strings, vectors and another list inside it.
+    Syntes-> list(data)
+  5. Data frame: Data frame is a table or a two dimension array like structure in which each column contains values of one variable and each row contains        one set of values from each column.
+    Syntex-> data.frame(data)
+    
+3. Operations: Operations are the constants which can manipulate the value of operands.
+  - Arithmetic
+  - Relational
+  - Logical
+  - Assignment
+  
+4. Conditional statements:
+  - If
+    Syntex-> if (expression1){ //statements1}
+                else if (expression2){  //statements2}
+  - Switch care statement: 
+    Syntex-> switch(expression 
+                    case1 =#statement1
+                    case2 =#statement2
+                    ..................
+                    default statement
+                    )
+                    
+                
+
+
